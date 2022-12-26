@@ -1,5 +1,6 @@
 # About Me
-I am a Software Developer. I completed multiple courses related to web development, back-end development, python,  UI/UX, and Databases.  
+Hi, I am a full-stack web developer who has lots of new solutions to real-world problems. 
+I am really interested in developing full-stack web apps linked to social networking.  
 
 <!---
 chandra1820/chandra1820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
